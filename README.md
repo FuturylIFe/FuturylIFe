@@ -39,7 +39,7 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-  <h2>📬 Contatos</h2>
+  <h2>📬 Fale Conosco</h2>
         <div class="social-links">
             <a href="https://github.com/FuturyLife">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Meu perfil no GitHub">
