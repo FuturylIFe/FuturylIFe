@@ -11,7 +11,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
 </head>
-   <h1>👋🏼 Salve, algumas coisas sobre mim! </h1>
+   <h1>👋🏼 Salve, algumas coisas sobre nossa empresa! </h1>
         <p> Me chamo <strong> Otávio </strong> mais conhecido como <strong> Tavin! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Maranguape! </strong> Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
             
  
