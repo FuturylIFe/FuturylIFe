@@ -36,14 +36,9 @@ Somos estudantes da disciplina de **Programação Orientada a Objetos**, e aqui 
 - Criar soluções úteis e funcionais  
 - Colaborar como uma equipe de verdade  
 
-## 📫 Contato
+## 🔧Ferramenta de uso
 
-Para saber mais ou colaborar com nossos projetos, entre em contato com a gente por aqui no GitHub ou pelas redes sociais da equipe.
-
-![Terminal](https://img.shields.io/badge/Terminal-222222?style=for-the-badge&logo=Accenture&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
 
   <h2>📬 Fale Conosco</h2>
         <div class="social-links">
