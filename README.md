@@ -40,9 +40,6 @@ Somos estudantes da disciplina de **Programação Orientada a Objetos**, e aqui 
 
 Para saber mais ou colaborar com nossos projetos, entre em contato com a gente por aqui no GitHub ou pelas redes sociais da equipe.
 
----
-
-_Futury Life — O futuro começa com uma ideia._(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FuturyLife)
 ![Terminal](https://img.shields.io/badge/Terminal-222222?style=for-the-badge&logo=Accenture&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
