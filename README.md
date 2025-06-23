@@ -18,7 +18,7 @@ Somos estudantes da disciplina de **Programação Orientada a Objetos**, e aqui 
 
 ## 🚀 Projetos em desenvolvimento
 
-- 🎮 **Jogo da Cobrinha** — uma versão divertida e personalizada do clássico Snake Game
+- 🎮 **Jogo da Velha** — uma versão divertida e personalizada do clássico tic tac toe
 - 🧮 **Calculadora em Java** — com funcionalidades básicas e design intuitivo
 
 ## 👥 Nossa Equipe
