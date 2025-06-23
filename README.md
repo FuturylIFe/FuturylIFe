@@ -1,8 +1,5 @@
-<!-- Parte superior da página -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Eu+Sou+Ot%C3%A1vio+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
-
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -10,30 +7,42 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
-</head>
-   <h1>👋🏼 Salve, algumas coisas sobre nossa empresa! </h1>
-        <p> Me chamo <strong> Otávio </strong> mais conhecido como <strong> Tavin! </strong> Sou aluno do <strong> IFCE - Campus Maranguape </strong>, no curso de <strong> Técnico em Informática </strong> 👨🏽‍💻. Nasci em <strong> Maranguape </strong> no ano de <strong> 2007 </strong> e no momento moro no distrito de <strong> Maranguape! </strong> Estou no github para aprender sobre tudo e um pouco mais na área de <strong> Informática </strong>. </p>
-            
- 
+# 👾 Futury Life
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00008B)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=A52A2A)
-![CSS](https://img.shields.io/badge/CSS-222222?&style=for-the-badge&logo=css3&logoColor=00BFFF)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=FFD700)
-![Shell](https://img.shields.io/badge/Shell-222222?style=for-the-badge&logo=Shell&logoColor=FF0000)                  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+Bem-vindo ao perfil oficial da **Futury Life** no GitHub!  
+Somos uma equipe acadêmica apaixonada por tecnologia, inovação e desenvolvimento de sistemas.
 
+## 💡 Sobre nós
 
+Somos estudantes da disciplina de **Programação Orientada a Objetos**, e aqui compartilhamos nossos projetos criativos desenvolvidos em **Java**.
 
-### Ferramentas de uso da Empresa:                    
+## 🚀 Projetos em desenvolvimento
 
+- 🎮 **Jogo da Cobrinha** — uma versão divertida e personalizada do clássico Snake Game
+- 🧮 **Calculadora em Java** — com funcionalidades básicas e design intuitivo
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FuturyLife)
+## 👥 Nossa Equipe
+
+| Integrante       | Função                  |
+|------------------|--------------------------|
+| José Luís        | Programador              |
+| João Victor      | Programador              |
+| Guilherme Pablo  | Designer de Interface    |
+| Otávio Sousa     | Designer e Programador   |
+
+## 📌 Objetivos
+
+- Aplicar os conceitos de POO na prática  
+- Criar soluções úteis e funcionais  
+- Colaborar como uma equipe de verdade  
+
+## 📫 Contato
+
+Para saber mais ou colaborar com nossos projetos, entre em contato com a gente por aqui no GitHub ou pelas redes sociais da equipe.
+
+---
+
+_Futury Life — O futuro começa com uma ideia._(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FuturyLife)
 ![Terminal](https://img.shields.io/badge/Terminal-222222?style=for-the-badge&logo=Accenture&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -41,11 +50,11 @@
 
   <h2>📬 Fale Conosco</h2>
         <div class="social-links">
-            <a href="https://github.com/FuturyLife">
+            <a href="https://github.com/FuturylIFe">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Meu perfil no GitHub">
             </a>
             <a href="mailto:futurylife23@gmail.com">
-                <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail - Envie um e-mail para Victor">
+                <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail - Envie um e-mail para nós">
             </a>
             <a href="https://www.instagram.com/futurylife/" target="_blank">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Me siga no Instagram">
@@ -53,19 +62,10 @@
     </section>
 </body>
                     
-
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5585987400549)
-
-
-
-<!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rfahham}/count.svg" /></p> 
   <br>
 </div>
 
-<!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
