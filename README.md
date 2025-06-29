@@ -40,7 +40,7 @@ Somos estudantes da disciplina de **Programação Orientada a Objetos**, e aqui 
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Apache Netbeans](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white)
-![Java](
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
   <h2>📬 Fale Conosco</h2>
         <div class="social-links">
